@@ -1,0 +1,21 @@
+Output
+When you run the script, you will see output similar to this:
+
+yaml
+Copy code
+============================
+ VM Resource Monitoring 
+============================
+
+[CPU USAGE]
+CPU Load: 3.4%
+
+[MEMORY USAGE]
+Total: 8.0G, Used: 3.2G, Free: 4.8G
+
+[DISK USAGE]
+Partition: /dev/sda1, Used: 15G of 100G, Available: 85G
+
+============================
+ Monitoring Complete 
+============================
